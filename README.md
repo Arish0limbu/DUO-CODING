@@ -1,2 +1,2 @@
-# DUO-CODING samtu
+# DUO-CODING Yum and Samtu
 Hello
