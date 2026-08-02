@@ -22,8 +22,3 @@ p {
     margin: 10px 0;
     transition: 0.3s;
 }
-
-#name:focus {
-    border-color: #2196F3;
-    box-shadow: 0 0 8px rgba(33, 150, 243, 0.5);
-}
